@@ -1,0 +1,4 @@
+ngrok
+pymysql
+php
+pyshorteners
